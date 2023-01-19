@@ -1,0 +1,6 @@
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\bin\Debug\SolarPanels.dll
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\bin\Debug\SolarPanels.pdb
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.csproj.AssemblyReference.cache
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.dll
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\SolarPanels\obj\Debug\SolarPanels.pdb

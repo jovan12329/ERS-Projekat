@@ -1,0 +1,6 @@
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.dll
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\bin\Debug\PowerDistributionSystem.pdb
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.AssemblyReference.cache
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.dll
+C:\Users\Jovan\Documents\ERS\ERS-Projekat\PowerDistributionSystem\obj\Debug\PowerDistributionSystem.pdb

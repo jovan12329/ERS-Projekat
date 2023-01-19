@@ -1,0 +1,3 @@
+Odobren je zahtjev za uredjaj: Uredjaj:Sporet 750  Cena:40693.5 Datum:19-Jan-23 00:24:43 
+Odobren je zahtjev za uredjaj: Uredjaj:Punjac 40  Cena:2170.32 Datum:19-Jan-23 00:24:49 
+Odobren je zahtjev za uredjaj: Uredjaj:Mikrotalasna 340  Cena:18447.72 Datum:19-Jan-23 00:24:53 
